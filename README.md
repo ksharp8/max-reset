@@ -1,9 +1,9 @@
 max-reset
 =========
 
-A light css framework without any addition picture
+A light css framework without any addition icon&pic
 
-------------------------------------------------------------------------------------------------------------------------
+=========
 
 You can use this css file easily for your projects as a basic css reset.
 
