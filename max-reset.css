@@ -83,7 +83,7 @@ a:hover {text-decoration: underline;}
 
 /* display */
 .hide {display:none;}
-.show {display:block:}
+.show {display:block;}
 .hidden {overflow:hidden;}
 
 /* position */

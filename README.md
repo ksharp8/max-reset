@@ -1,7 +1,7 @@
 max-reset
 =========
 
-A light css framework without any addition icon&pic
+A light-weight css framework without any addition icon&pic
 
 =========
 
